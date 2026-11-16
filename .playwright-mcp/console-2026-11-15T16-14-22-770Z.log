@@ -1,0 +1,124 @@
+[    2642ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[    2642ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   20823ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   20823ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   23758ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   23758ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   25359ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   25360ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   27745ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   27745ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   28252ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   28252ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   29928ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   29929ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   31738ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   31738ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   33116ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   33117ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   34520ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   34521ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   35970ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   35971ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   37500ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   37500ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   39053ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   39054ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   40029ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   40029ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   41724ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   41724ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   53418ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   53419ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[   89165ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[   89166ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  101304ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  101305ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  103260ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  103261ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  105197ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  105197ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  107363ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  107363ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  109334ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  109334ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  111284ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  111284ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  113250ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  113250ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  115098ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  115099ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  117464ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  117464ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  118925ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  118926ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  120872ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  120873ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  122809ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  122810ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  124925ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  124925ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  126713ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  126713ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  128693ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  128693ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  167358ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  167358ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  169017ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  169017ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  170365ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  170366ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  172090ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  172090ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  173540ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  173540ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  174897ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  174898ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  176335ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  176335ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  177719ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  177720ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  179144ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  179144ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  180418ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  180418ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  181731ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  181731ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  183063ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  183063ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  184671ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  184672ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  185897ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  185897ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  187265ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  187265ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  196451ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  196452ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  197944ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  197945ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  199185ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  199185ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  200899ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  200900ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  202512ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  202512ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  204498ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  204498ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  205478ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  205479ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  206565ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  206566ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  208034ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  208034ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  209596ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  209597ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  210644ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  210644ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  211989ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  211990ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  213194ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  213195ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  214436ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  214436ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
+[  215856ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://developer.apple.com/services-session/v1/info:1
+[  215856ms] [ERROR] Session fetch failed: HTTP 401 @ https://developer.apple.com/tutorials/js/194.f04a124b.js:10
